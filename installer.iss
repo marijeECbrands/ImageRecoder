@@ -1,7 +1,7 @@
 #define MyAppName "Fashion Image Renamer v5"
 #define MyAppVersion "5.0"
 #define MyAppPublisher "Fashion Image Renamer"
-#define MyAppExeName "FashionImageRenamer_v5.exe"
+#define MyAppExeName "FashionImageRenamer.exe"
 
 [Setup]
 AppId={{87C2EAC0-87B8-4C5B-BF11-36DE5993DEB9}
