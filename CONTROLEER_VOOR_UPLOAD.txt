@@ -1,0 +1,10 @@
+Fashion Image Renamer v6
+
+Belangrijkste wijzigingen:
+- parallelle AI-classificatie
+- AI-kopie max 1200 px, output origineel
+- exacte en bijna-identieke duplicatenfilter
+- classificatiecache
+- snelle Excel-index
+
+Vervang bij upload de bestaande app.py door deze v6-bestanden of upload de volledige inhoud van dit pakket.

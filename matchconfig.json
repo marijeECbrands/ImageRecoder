@@ -1,0 +1,13 @@
+{
+  "match": {
+    "filename_separator": "_",
+    "before_separator_match": "exact",
+    "after_separator_match": "contains"
+  },
+  "columns": {
+    "supplier": "Artikelnr. Leverancier",
+    "external_description": "Externe omschrijving",
+    "article_number": "Artikel nr.",
+    "color_code": "Kleurcode"
+  }
+}

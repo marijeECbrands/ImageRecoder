@@ -1,0 +1,5 @@
+customtkinter>=5.2.2
+openai>=1.68.0
+openpyxl>=3.1.5
+Pillow>=10.4.0
+pyinstaller>=6.10.0
